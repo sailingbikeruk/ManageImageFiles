@@ -13,3 +13,9 @@ Here’s what it does.
  + Moves the file from the source directory to the destination directory.
 
 The script requires PS V7 or greater. Using PS v5.1 gives a ParseExact error on the date extracted from TakenDate
+
+Usage:
+
+./MoveImages.ps1 <SourceDirectory> <DestinationDirectory>
+
+    
